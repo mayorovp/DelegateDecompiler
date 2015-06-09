@@ -53,6 +53,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ComputeIncludeDecompileTest.cs" />
     <Compile Include="EfItems\DatabaseHelpers.cs" />
     <Compile Include="EfItems\EfChild.cs" />
     <Compile Include="EfItems\EfGrandChild.cs" />
